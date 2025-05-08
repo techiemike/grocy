@@ -1,4 +1,4 @@
-This repository is no longer actively maintained.
+Forked for personal use.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
