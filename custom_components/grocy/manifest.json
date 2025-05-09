@@ -1,9 +1,8 @@
 {
   "domain": "grocy",
-  "name": "Grocy",
+  "name": "Grocy Techiemike",
   "codeowners": [
-    "@SebRut",
-    "@isabellaalstrom"
+    "@techiemike"
   ],
   "config_flow": true,
   "dependencies": [
